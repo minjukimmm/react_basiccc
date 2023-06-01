@@ -9,3 +9,5 @@
 # return문은 반드시 하나의 태그로 되어 있어야 한다 
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/af7a356f-2d9c-498c-ac73-ae68fa59c2fb)
 
+# 해결방법 부모태그로 싸주어야한다 (<DIV>) 또는 Fragment로 싸주어야한다
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/329f5e16-c6c9-414f-a4b0-1d41f130b4bc)
