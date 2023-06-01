@@ -13,4 +13,7 @@
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/329f5e16-c6c9-414f-a4b0-1d41f130b4bc)
 
  # 함수 만들기
-  ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/b5a00a62-4c14-4a2d-bac9-d9eabb56ea19)
+ ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/b5a00a62-4c14-4a2d-bac9-d9eabb56ea19)
+
+ # 화살표 함수로 바꿈
+ ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/1fd88a96-1c8b-46a0-b797-0777f5ef1be9)
