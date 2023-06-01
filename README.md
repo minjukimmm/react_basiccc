@@ -17,3 +17,6 @@
 
  # 화살표 함수로 바꿈
  ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/1fd88a96-1c8b-46a0-b797-0777f5ef1be9)
+
+#함수를 밖으로 빼기
+ ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/041b07d2-f8e8-4ce9-8640-306f3850b7b1)
