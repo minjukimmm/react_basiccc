@@ -29,7 +29,12 @@
 # 함수 밖으로 빼기
 ![image](https://github.com/understanding963852/react_basic/assets/60366769/200daebf-b6f8-40ea-a778-8c10213016d1)
 
+# 콘솔에는 숫자가 바뀌어지는데 화면에는 바뀌지 않는다
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/5a301e3c-cf80-42e3-90cb-cf0905e9abb2)
 
 
+# react에서는 변수가 바뀐다해서 리랜더링이 일어나지 않는다
+==> 해결책) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야한다.
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/6d0c6b38-d8e1-490a-a9cc-a4b8a20aa94b)
 
  
