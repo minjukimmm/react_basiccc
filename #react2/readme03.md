@@ -6,3 +6,8 @@
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/59930d6b-d29a-4079-bc10-e48efe7e94e2)
 
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/bd7e8cc3-e141-44b7-929f-45babab336fb)
+
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/109bbb20-82e3-408f-8b9a-c3b7a98438cd)
+
+
+
