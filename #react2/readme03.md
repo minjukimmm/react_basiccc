@@ -10,4 +10,6 @@
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/109bbb20-82e3-408f-8b9a-c3b7a98438cd)
 
 
-
+useEffect
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/154ad2ae-de74-43b3-9a83-bd5f1cf7bdd2)
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/f0d38f54-d469-448b-9696-ed98baa5f678)
