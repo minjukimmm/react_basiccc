@@ -16,3 +16,7 @@ useEffect
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/6177009e-a52a-4305-991b-2ce970be2afe)
 
 
+# 자식 요소에 값전달
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/99f314b0-110a-4a42-857d-eb96efd4ba66)
+
+
