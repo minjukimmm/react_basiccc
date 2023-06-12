@@ -11,3 +11,8 @@
  
  
 # db.json 실행하기
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/00bbf195-4c08-4bff-9a46-c733e04f5e16)
+
+# 위와 같이 실행하면 port를 3000번을 사용하기 때문에 react와 중복이 되어버린다.
+# 그래서 port를 변경해 주어야 한다
+    json-server --watch db.json --port 3004
