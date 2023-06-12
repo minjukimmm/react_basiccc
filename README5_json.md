@@ -25,3 +25,7 @@ npx json-server --watch db.json --port 3004
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/ce810c3d-651b-48ac-a884-6066a649e938)
 
         npm i axios
+        
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/960cd804-8abe-4ca2-8eef-c523b49aec5b)
+
+
