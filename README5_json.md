@@ -28,4 +28,7 @@ npx json-server --watch db.json --port 3004
         
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/960cd804-8abe-4ca2-8eef-c523b49aec5b)
 
-ㄹ
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/150dc3a5-a712-41c7-8940-84b12f735964)
+npm i react-router-dom
+
+![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/a45e9748-7fe1-436b-a2c5-cc30669bcd23)
