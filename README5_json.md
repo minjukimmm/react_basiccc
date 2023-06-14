@@ -31,6 +31,10 @@ npx json-server --watch db.json --port 3004
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/150dc3a5-a712-41c7-8940-84b12f735964)
 npm i react-router-dom
 
+
+Route 연결하기
+ npm i react-router-dom
+ 
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/a45e9748-7fe1-436b-a2c5-cc30669bcd23)
 
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/1b806641-4854-42cd-9bf5-26a13edf1cce)
