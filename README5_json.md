@@ -1,7 +1,7 @@
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/9dda5835-f8ff-4405-8686-43b2e74ff044)
 
     npm i json-server
-    
+     
 # db.json 파일 만들기
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/a53f89dd-9d66-4067-ba5c-49e42fa56c51)
 
@@ -34,4 +34,5 @@ npm i react-router-dom
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/a45e9748-7fe1-436b-a2c5-cc30669bcd23)
 
 ![image](https://github.com/minjukimmm/react_basiccc/assets/129017089/1b806641-4854-42cd-9bf5-26a13edf1cce)
+
 
